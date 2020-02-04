@@ -1,5 +1,18 @@
 # Model-01
 Case to lean in Stocktomorow
+
+
+
+
+
+
+
+
+
+
+
+
+
 import numpy as np   
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -64,6 +77,38 @@ def add_data(data):
  #Load Model
 new_model = CatBoostClassifier()
 new_model = new_model.load_model('630203_model_01.bob')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
  
